@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#F4F6FB</color>
+    <color name="ink">#1B2340</color>
+    <color name="muted">#5B6580</color>
+    <color name="primary">#2B3A8F</color>
+    <color name="accent">#3D4FD6</color>
+    <color name="track">#E6E9FB</color>
+    <color name="step_off">#D9DEEF</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="card_closed">#AEB9DC</color>
+    <color name="match_green">#2FB36A</color>
+    <color name="mismatch_red">#E5484D</color>
+
+    <color name="c_red">#E5484D</color>
+    <color name="c_blue">#3E7BFA</color>
+    <color name="c_green">#2FB36A</color>
+    <color name="c_yellow">#F5B82E</color>
+
+    <color name="dim_red">#F3C6C8</color>
+    <color name="dim_blue">#C7D7FD</color>
+    <color name="dim_green">#BFE8D1</color>
+    <color name="dim_yellow">#FAE3AD</color>
+
+    <color name="ink_red">#FF6B70</color>
+    <color name="ink_blue">#6FA0FF</color>
+    <color name="ink_green">#3FD184</color>
+    <color name="ink_yellow">#F5B82E</color>
+
+    <color name="stimulus_label">#C9D0EC</color>
+</resources>
